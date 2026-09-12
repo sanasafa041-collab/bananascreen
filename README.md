@@ -2,66 +2,58 @@
 
 
 
-# [Project Name] 🎯
+# [BananaScreen] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [codecrafters]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [safa fathima ts] - [ansar women's college]
+- Member 2: [sana nasrin ca] - [ansar women's college]
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+[BanaScreen is an eco-friendly solution that helps prevent banana browning and blackening by providing natural UV protection. It explores banana-derived, antioxidant-rich ingredients to create a sustainable protective coating, reducing food waste while giving discarded banana resources a useful second life]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[banana turn black or brown very quickly after being peeled or cut]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[banascreen provides a natural protective coating that helps slowdone banana browning]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [language-HTML,CSS,Javascript]
+- [framework-none]
+- [Libraries used-none]
+- [Tools used-vscode,github]
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
 # Run
-[commands]
+live server
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ee8cf31a-4c27-4145-9c3d-29cc8020112c" />
+]
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/aa9fa199-f8ea-4645-a15b-2839e6cafc19" />
+]
+
+![<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d207db11-fc6b-4310-81fb-0081742f539e" />
+]
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
@@ -77,7 +69,8 @@ For Hardware:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4cb0a28c-89e6-462c-a130-b24719a640c8" />
+](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
@@ -86,12 +79,12 @@ For Hardware:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+[this video demonstrate the banascreen website , its features and how to it helps slow down banana browning]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [safa fathima ts]: [project idea,website design and documentation]
+- [sana nasrin ca ]: [website development and coding]
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
